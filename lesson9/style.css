@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+background-color: #008000;
+padding-top: 40px;
+padding-bottom: 40px;
+list-style: none;
+}
+.wrapper{
+    display: flex;
+    gap: 40px;
+  
+
+}
+body{background-color: aliceblue;}
+.box{
+    background-color: blue;
+}
+img{
+    width: 200px;
+}
+.footer{
+    padding: 40px ;
+    background-color: blue;
+    margin-top: 40px;
+}
+.new{ 
+    border: 1px solid gray; 
+    padding: 30px; 
+    width: 310px; 
+    margin: 20px; 
+} 
+.new-img{ 
+    width: 250px; 
+    margin-bottom: 30px; 
+}
+.new-wrap{
+   display:flex;
+   justify-content: space-evenly;
+}
+.contact{
+    background-color: aquamarine;
+}
